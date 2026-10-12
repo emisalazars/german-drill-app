@@ -1,0 +1,2539 @@
+{
+ "source": "seed-2026-10-12",
+ "cards": [
+  {
+   "id": "avc-01",
+   "type": "fill_blank",
+   "prompt": "Am Wochenende besuche ich ___ Onkel in Bern. (mein)",
+   "answers": [
+    "meinen"
+   ],
+   "tags": [
+    "akk-dat-verb-case",
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "besuchen + Akkusativ (wen?). Onkel ist maskulin → meinen.",
+   "hint": "Akk (wen/was?): besuchen, fragen, suchen, sehen, lesen, brauchen, treffen, anrufen, vermeiden. Dat (wem?): helfen, danken, antworten, gehören, gefallen, folgen, gratulieren.",
+   "contrast": "besuchen-helfen",
+   "diagnostic": {
+    "question": "Kasus? (Akk/Dat)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "avc-02",
+   "type": "fill_blank",
+   "prompt": "Kannst du ___ Kollegin helfen? (die)",
+   "answers": [
+    "der"
+   ],
+   "tags": [
+    "akk-dat-verb-case"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "helfen + Dativ (wem?). Femininum Dativ → der.",
+   "hint": "Akk (wen/was?): besuchen, fragen, suchen, sehen, lesen, brauchen, treffen, anrufen, vermeiden. Dat (wem?): helfen, danken, antworten, gehören, gefallen, folgen, gratulieren.",
+   "contrast": "besuchen-helfen",
+   "diagnostic": {
+    "question": "Kasus? (Akk/Dat)",
+    "answers": [
+     "Dat",
+     "Dativ"
+    ]
+   }
+  },
+  {
+   "id": "avc-03",
+   "type": "fill_blank",
+   "prompt": "Ich danke ___ Professor für das Feedback. (der)",
+   "answers": [
+    "dem"
+   ],
+   "tags": [
+    "akk-dat-verb-case"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "danken + Dativ (wem?).",
+   "hint": "Akk (wen/was?): besuchen, fragen, suchen, sehen, lesen, brauchen, treffen, anrufen, vermeiden. Dat (wem?): helfen, danken, antworten, gehören, gefallen, folgen, gratulieren.",
+   "diagnostic": {
+    "question": "Kasus? (Akk/Dat)",
+    "answers": [
+     "Dat",
+     "Dativ"
+    ]
+   }
+  },
+  {
+   "id": "avc-04",
+   "type": "fill_blank",
+   "prompt": "Wir treffen ___ Betreuer morgen um zehn. (unser)",
+   "answers": [
+    "unseren"
+   ],
+   "tags": [
+    "akk-dat-verb-case",
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "treffen + Akkusativ. unser → unseren (mask. Akk).",
+   "hint": "Akk (wen/was?): besuchen, fragen, suchen, sehen, lesen, brauchen, treffen, anrufen, vermeiden. Dat (wem?): helfen, danken, antworten, gehören, gefallen, folgen, gratulieren.",
+   "diagnostic": {
+    "question": "Kasus? (Akk/Dat)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "avc-05",
+   "type": "fill_blank",
+   "prompt": "Das Fahrrad gehört ___ Bruder. (mein)",
+   "answers": [
+    "meinem"
+   ],
+   "tags": [
+    "akk-dat-verb-case"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "gehören + Dativ (wem?).",
+   "hint": "Akk (wen/was?): besuchen, fragen, suchen, sehen, lesen, brauchen, treffen, anrufen, vermeiden. Dat (wem?): helfen, danken, antworten, gehören, gefallen, folgen, gratulieren.",
+   "diagnostic": {
+    "question": "Kasus? (Akk/Dat)",
+    "answers": [
+     "Dat",
+     "Dativ"
+    ]
+   }
+  },
+  {
+   "id": "avc-06",
+   "type": "fill_blank",
+   "prompt": "Ich rufe ___ Vermieter heute Abend an. (der)",
+   "answers": [
+    "den"
+   ],
+   "tags": [
+    "akk-dat-verb-case",
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "anrufen + Akkusativ (wen?), nicht Dativ.",
+   "hint": "Akk (wen/was?): besuchen, fragen, suchen, sehen, lesen, brauchen, treffen, anrufen, vermeiden. Dat (wem?): helfen, danken, antworten, gehören, gefallen, folgen, gratulieren.",
+   "diagnostic": {
+    "question": "Kasus? (Akk/Dat)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "avc-07",
+   "type": "fill_blank",
+   "prompt": "Bitte antworte ___ Kunden bis Freitag. (der, Singular)",
+   "answers": [
+    "dem"
+   ],
+   "tags": [
+    "akk-dat-verb-case"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "antworten + Dativ. Kunde ist n-Deklination: dem Kunden.",
+   "hint": "Akk (wen/was?): besuchen, fragen, suchen, sehen, lesen, brauchen, treffen, anrufen, vermeiden. Dat (wem?): helfen, danken, antworten, gehören, gefallen, folgen, gratulieren.",
+   "diagnostic": {
+    "question": "Kasus? (Akk/Dat)",
+    "answers": [
+     "Dat",
+     "Dativ"
+    ]
+   }
+  },
+  {
+   "id": "avc-08",
+   "type": "fill_blank",
+   "prompt": "Wir müssen ___ Stau auf der A1 vermeiden. (der)",
+   "answers": [
+    "den"
+   ],
+   "tags": [
+    "akk-dat-verb-case",
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "vermeiden + Akkusativ.",
+   "hint": "Akk (wen/was?): besuchen, fragen, suchen, sehen, lesen, brauchen, treffen, anrufen, vermeiden. Dat (wem?): helfen, danken, antworten, gehören, gefallen, folgen, gratulieren.",
+   "diagnostic": {
+    "question": "Kasus? (Akk/Dat)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "avc-09",
+   "type": "fill_blank",
+   "prompt": "Der Vortrag hat ___ Publikum gut gefallen. (das)",
+   "answers": [
+    "dem"
+   ],
+   "tags": [
+    "akk-dat-verb-case"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "gefallen + Dativ: Etwas gefällt jemandem.",
+   "hint": "Akk (wen/was?): besuchen, fragen, suchen, sehen, lesen, brauchen, treffen, anrufen, vermeiden. Dat (wem?): helfen, danken, antworten, gehören, gefallen, folgen, gratulieren.",
+   "diagnostic": {
+    "question": "Kasus? (Akk/Dat)",
+    "answers": [
+     "Dat",
+     "Dativ"
+    ]
+   }
+  },
+  {
+   "id": "avc-10",
+   "type": "fill_blank",
+   "prompt": "Ich frage ___ Assistenten nach dem Termin. (der)",
+   "answers": [
+    "den"
+   ],
+   "tags": [
+    "akk-dat-verb-case",
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "fragen + Akkusativ (wen?), auch wenn es auf Spanisch 'preguntar a alguien' heißt.",
+   "hint": "Akk (wen/was?): besuchen, fragen, suchen, sehen, lesen, brauchen, treffen, anrufen, vermeiden. Dat (wem?): helfen, danken, antworten, gehören, gefallen, folgen, gratulieren.",
+   "diagnostic": {
+    "question": "Kasus? (Akk/Dat)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "avc-11",
+   "type": "fill_blank",
+   "prompt": "Wir gratulieren ___ Team zum Erfolg. (unser)",
+   "answers": [
+    "unserem"
+   ],
+   "tags": [
+    "akk-dat-verb-case"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "gratulieren + Dativ.",
+   "hint": "Akk (wen/was?): besuchen, fragen, suchen, sehen, lesen, brauchen, treffen, anrufen, vermeiden. Dat (wem?): helfen, danken, antworten, gehören, gefallen, folgen, gratulieren.",
+   "diagnostic": {
+    "question": "Kasus? (Akk/Dat)",
+    "answers": [
+     "Dat",
+     "Dativ"
+    ]
+   }
+  },
+  {
+   "id": "avc-12",
+   "type": "fill_blank",
+   "prompt": "Ich suche ___ Schlüssel schon seit einer Stunde. (mein)",
+   "answers": [
+    "meinen"
+   ],
+   "tags": [
+    "akk-dat-verb-case",
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "suchen + Akkusativ.",
+   "hint": "Akk (wen/was?): besuchen, fragen, suchen, sehen, lesen, brauchen, treffen, anrufen, vermeiden. Dat (wem?): helfen, danken, antworten, gehören, gefallen, folgen, gratulieren.",
+   "diagnostic": {
+    "question": "Kasus? (Akk/Dat)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "avc-13",
+   "type": "error_correction",
+   "prompt": "Gestern habe ich meinem Freund im Krankenhaus besucht.",
+   "answers": [
+    "Gestern habe ich meinen Freund im Krankenhaus besucht."
+   ],
+   "tags": [
+    "akk-dat-verb-case",
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "besuchen + Akkusativ: meinen Freund. (Dein häufigster Rückfall!)",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "avc-14",
+   "type": "error_correction",
+   "prompt": "Ich habe den Professor für seine Hilfe gedankt.",
+   "answers": [
+    "Ich habe dem Professor für seine Hilfe gedankt."
+   ],
+   "tags": [
+    "akk-dat-verb-case"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "danken + Dativ: dem Professor.",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "avc-15",
+   "type": "speaking",
+   "prompt": "Sag: \"Yesterday I visited my supervisor (m).\"",
+   "answers": [
+    "Gestern habe ich meinen Betreuer besucht.",
+    "Ich habe gestern meinen Betreuer besucht."
+   ],
+   "tags": [
+    "akk-dat-verb-case",
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "besuchen + Akk → meinen Betreuer."
+  },
+  {
+   "id": "akm-01",
+   "type": "fill_blank",
+   "prompt": "Ich habe ___ Plan für das Semester. (ein)",
+   "answers": [
+    "einen"
+   ],
+   "tags": [
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "haben + Akk; der Plan → einen Plan.",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "akm-02",
+   "type": "fill_blank",
+   "prompt": "In diesem Dorf gibt es ___ Bahnhof. (kein)",
+   "answers": [
+    "keinen"
+   ],
+   "tags": [
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "es gibt + Akkusativ; der Bahnhof → keinen.",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "akm-03",
+   "type": "fill_blank",
+   "prompt": "Ich kenne ___ Ingenieur nicht. (dieser)",
+   "answers": [
+    "diesen"
+   ],
+   "tags": [
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "kennen + Akk; maskulin → diesen.",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "akm-04",
+   "type": "fill_blank",
+   "prompt": "Sie fährt ___ Tag mit dem Zug nach Zürich. (jeder)",
+   "answers": [
+    "jeden"
+   ],
+   "tags": [
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Zeitangabe im Akkusativ: jeden Tag.",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "akm-05",
+   "type": "fill_blank",
+   "prompt": "Wir brauchen ___ zweiten Kreisverkehr. (ein)",
+   "answers": [
+    "einen"
+   ],
+   "tags": [
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "brauchen + Akk; der Kreisverkehr → einen.",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "akm-06",
+   "type": "fill_blank",
+   "prompt": "Ich lese ___ Bericht heute Abend. (dieser)",
+   "answers": [
+    "diesen"
+   ],
+   "tags": [
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "der Bericht → diesen (mask. Akk).",
+   "contrast": "diesen-diese",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "akm-07",
+   "type": "fill_blank",
+   "prompt": "Ich lese ___ E-Mail heute Abend. (dieser)",
+   "answers": [
+    "diese"
+   ],
+   "tags": [
+    "akk-mask-endings",
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "die E-Mail ist feminin → diese. 'diesen' nur für maskulin!",
+   "contrast": "diesen-diese",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "akm-08",
+   "type": "fill_blank",
+   "prompt": "Ich sehe ___ Mann mit dem Hund. (der)",
+   "answers": [
+    "den"
+   ],
+   "tags": [
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Akkusativ maskulin = den (nicht dem).",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "akm-09",
+   "type": "error_correction",
+   "prompt": "Ich habe ein Termin beim Zahnarzt.",
+   "answers": [
+    "Ich habe einen Termin beim Zahnarzt."
+   ],
+   "tags": [
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "der Termin → einen Termin.",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "akm-10",
+   "type": "error_correction",
+   "prompt": "Wir haben noch kein Plan B.",
+   "answers": [
+    "Wir haben noch keinen Plan B."
+   ],
+   "tags": [
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "der Plan → keinen Plan.",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "akm-11",
+   "type": "error_correction",
+   "prompt": "Kennst du unser neuer Nachbar?",
+   "answers": [
+    "Kennst du unseren neuen Nachbarn?"
+   ],
+   "tags": [
+    "akk-mask-endings",
+    "adjective-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Akk mask.: unseren neuen Nachbarn (Nachbar: n-Deklination).",
+   "instruction": "Finde und korrigiere die Fehler."
+  },
+  {
+   "id": "ws-01",
+   "type": "transform",
+   "prompt": "Ich trainiere jeden Tag. Ich laufe nächsten Monat einen Marathon.",
+   "answers": [
+    "Ich trainiere jeden Tag, weil ich nächsten Monat einen Marathon laufe."
+   ],
+   "tags": [
+    "weil-subject-position",
+    "verb-final"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "weil + Subjekt sofort, dann Zeitangabe, Verb ans Ende.",
+   "instruction": "Verbinde mit weil."
+  },
+  {
+   "id": "ws-02",
+   "type": "transform",
+   "prompt": "Ich bleibe heute zu Hause. Ich bin müde.",
+   "answers": [
+    "Ich bleibe heute zu Hause, weil ich müde bin."
+   ],
+   "tags": [
+    "weil-subject-position",
+    "verb-final"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Verbinde mit weil."
+  },
+  {
+   "id": "ws-03",
+   "type": "error_correction",
+   "prompt": "Ich lerne Deutsch, weil nächstes Jahr ich in Zürich arbeite.",
+   "answers": [
+    "Ich lerne Deutsch, weil ich nächstes Jahr in Zürich arbeite."
+   ],
+   "tags": [
+    "weil-subject-position"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Subjekt direkt nach weil, dann die Zeitangabe.",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "ws-04",
+   "type": "error_correction",
+   "prompt": "Er sagt, dass morgen er keine Zeit hat.",
+   "answers": [
+    "Er sagt, dass er morgen keine Zeit hat."
+   ],
+   "tags": [
+    "weil-subject-position"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Subjekt direkt nach dass.",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "ws-05",
+   "type": "transform",
+   "prompt": "Ich glaube: Das Projekt ist machbar.",
+   "answers": [
+    "Ich glaube, dass das Projekt machbar ist."
+   ],
+   "tags": [
+    "weil-subject-position",
+    "verb-final"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Mit dass."
+  },
+  {
+   "id": "ws-06",
+   "type": "speaking",
+   "prompt": "Sag mit weil: \"Ich komme später. Der Zug hat Verspätung.\"",
+   "answers": [
+    "Ich komme später, weil der Zug Verspätung hat."
+   ],
+   "tags": [
+    "weil-subject-position",
+    "verb-final"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "vf-01",
+   "type": "transform",
+   "prompt": "Ich bin gestresst. Ich habe angefangen, ein Masterarbeitsthema zu suchen.",
+   "answers": [
+    "Ich bin gestresst, weil ich angefangen habe, ein Masterarbeitsthema zu suchen."
+   ],
+   "tags": [
+    "verb-final",
+    "zu-infinitive"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Das konjugierte Verb (habe) steht am Ende des weil-Satzes; der zu-Infinitiv folgt danach.",
+   "instruction": "Verbinde mit weil."
+  },
+  {
+   "id": "vf-02",
+   "type": "transform",
+   "prompt": "Der Bericht ist spät. Wir konnten die Daten nicht rechtzeitig bekommen.",
+   "answers": [
+    "Der Bericht ist spät, weil wir die Daten nicht rechtzeitig bekommen konnten."
+   ],
+   "tags": [
+    "verb-final"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Verbinde mit weil."
+  },
+  {
+   "id": "vf-03",
+   "type": "transform",
+   "prompt": "Ich weiß nicht: Wird die Brücke bis 2027 fertig sein?",
+   "answers": [
+    "Ich weiß nicht, ob die Brücke bis 2027 fertig sein wird."
+   ],
+   "tags": [
+    "verb-final"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Indirekte Ja/Nein-Frage mit ob; konjugiertes Verb am Ende.",
+   "instruction": "Mit ob."
+  },
+  {
+   "id": "vf-04",
+   "type": "error_correction",
+   "prompt": "Sie hat gesagt, dass sie hat den Bericht geschrieben.",
+   "answers": [
+    "Sie hat gesagt, dass sie den Bericht geschrieben hat."
+   ],
+   "tags": [
+    "verb-final"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "v2-01",
+   "type": "error_correction",
+   "prompt": "Diese Woche vielleicht gehe ich ins Kino.",
+   "answers": [
+    "Diese Woche gehe ich vielleicht ins Kino."
+   ],
+   "tags": [
+    "v2-main-clause"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Genau EIN Element vor dem Verb.",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "v2-02",
+   "type": "error_correction",
+   "prompt": "Morgen ich fahre nach Bern.",
+   "answers": [
+    "Morgen fahre ich nach Bern."
+   ],
+   "tags": [
+    "v2-main-clause"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "v2-03",
+   "type": "error_correction",
+   "prompt": "Leider ich kann nicht kommen.",
+   "answers": [
+    "Leider kann ich nicht kommen."
+   ],
+   "tags": [
+    "v2-main-clause"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "v2-04",
+   "type": "transform",
+   "prompt": "Ich möchte nach dem Studium in der Schweiz arbeiten.",
+   "answers": [
+    "Nach dem Studium möchte ich in der Schweiz arbeiten."
+   ],
+   "tags": [
+    "v2-main-clause"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Beginne mit \"Nach dem Studium\"."
+  },
+  {
+   "id": "v2-05",
+   "type": "transform",
+   "prompt": "Ich habe gestern den ganzen Tag an der Masterarbeit gearbeitet.",
+   "answers": [
+    "Gestern habe ich den ganzen Tag an der Masterarbeit gearbeitet."
+   ],
+   "tags": [
+    "v2-main-clause"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Beginne mit \"Gestern\"."
+  },
+  {
+   "id": "v2-06",
+   "type": "transform",
+   "prompt": "Er sagt, dass er morgen keine Zeit hat.",
+   "answers": [
+    "Er sagt, er hat morgen keine Zeit.",
+    "Er sagt, er habe morgen keine Zeit."
+   ],
+   "tags": [
+    "v2-main-clause"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Ohne dass: Hauptsatz-Wortstellung (V2).",
+   "instruction": "Ohne dass."
+  },
+  {
+   "id": "ww-01",
+   "type": "fill_blank",
+   "prompt": "Wenn ich mehr Zeit hätte, ___ ich öfter laufen. (werden)",
+   "answers": [
+    "würde"
+   ],
+   "tags": [
+    "wuerde-vs-wurde",
+    "spelling"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Konjunktiv II (irreal) → würde.",
+   "contrast": "wurde-wuerde"
+  },
+  {
+   "id": "ww-02",
+   "type": "fill_blank",
+   "prompt": "Die Brücke ___ 1990 gebaut. (werden)",
+   "answers": [
+    "wurde"
+   ],
+   "tags": [
+    "wuerde-vs-wurde",
+    "passive"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Passiv Präteritum → wurde.",
+   "contrast": "wurde-wuerde"
+  },
+  {
+   "id": "ww-03",
+   "type": "fill_blank",
+   "prompt": "___ Sie mir bitte kurz helfen? (werden, höflich)",
+   "answers": [
+    "Würden"
+   ],
+   "tags": [
+    "wuerde-vs-wurde"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Höfliche Bitte: Konjunktiv II."
+  },
+  {
+   "id": "ww-04",
+   "type": "error_correction",
+   "prompt": "Ich wurde gern mehr reisen.",
+   "answers": [
+    "Ich würde gern mehr reisen."
+   ],
+   "tags": [
+    "wuerde-vs-wurde"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "ww-05",
+   "type": "error_correction",
+   "prompt": "Das Gebäude würde 2015 eröffnet.",
+   "answers": [
+    "Das Gebäude wurde 2015 eröffnet."
+   ],
+   "tags": [
+    "wuerde-vs-wurde",
+    "passive"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "ww-06",
+   "type": "speaking",
+   "prompt": "Sag: \"If I had time, I would run a marathon.\"",
+   "answers": [
+    "Wenn ich Zeit hätte, würde ich einen Marathon laufen."
+   ],
+   "tags": [
+    "wuerde-vs-wurde",
+    "akk-mask-endings"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "adj-01",
+   "type": "fill_blank",
+   "prompt": "Ich habe einen ___ Vorschlag. (neu)",
+   "answers": [
+    "neuen"
+   ],
+   "tags": [
+    "adjective-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "ein-Wort, Akk mask. → -en.",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "adj-02",
+   "type": "fill_blank",
+   "prompt": "Mit dieser ___ Lösung sind alle zufrieden. (einfach)",
+   "answers": [
+    "einfachen"
+   ],
+   "tags": [
+    "adjective-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Dativ → immer -en.",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Dat",
+     "Dativ"
+    ]
+   }
+  },
+  {
+   "id": "adj-03",
+   "type": "fill_blank",
+   "prompt": "Das ist ein ___ Projekt. (spannend)",
+   "answers": [
+    "spannendes"
+   ],
+   "tags": [
+    "adjective-endings",
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "ein + Neutrum Nom → Adjektiv zeigt das Genus: -es.",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Nom",
+     "Nominativ"
+    ]
+   }
+  },
+  {
+   "id": "adj-04",
+   "type": "fill_blank",
+   "prompt": "Wir wohnen in einer ___ Wohnung. (klein)",
+   "answers": [
+    "kleinen"
+   ],
+   "tags": [
+    "adjective-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Dativ → -en.",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Dat",
+     "Dativ"
+    ]
+   }
+  },
+  {
+   "id": "adj-05",
+   "type": "fill_blank",
+   "prompt": "Jeder ___ Student bekommt einen Platz. (neu)",
+   "answers": [
+    "neue"
+   ],
+   "tags": [
+    "adjective-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "der-Wort im Nom → -e.",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Nom",
+     "Nominativ"
+    ]
+   }
+  },
+  {
+   "id": "adj-06",
+   "type": "fill_blank",
+   "prompt": "Trotz des ___ Wetters fahren wir los. (schlecht)",
+   "answers": [
+    "schlechten"
+   ],
+   "tags": [
+    "adjective-endings",
+    "genitive"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Genitiv → -en.",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Gen",
+     "Genitiv"
+    ]
+   }
+  },
+  {
+   "id": "adj-07",
+   "type": "fill_blank",
+   "prompt": "Ich trinke morgens ___ Kaffee. (schwarz)",
+   "answers": [
+    "schwarzen"
+   ],
+   "tags": [
+    "adjective-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Ohne Artikel, Akk mask. → -en.",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "adj-08",
+   "type": "fill_blank",
+   "prompt": "Ich lese die ___ Zeitung. (heutig)",
+   "answers": [
+    "heutige"
+   ],
+   "tags": [
+    "adjective-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "der-Wort, Akk fem. → -e.",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "adj-09",
+   "type": "fill_blank",
+   "prompt": "Wir sprechen mit den ___ Kollegen. (neu)",
+   "answers": [
+    "neuen"
+   ],
+   "tags": [
+    "adjective-endings",
+    "dative-plural"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Dativ Plural → -en.",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Dat",
+     "Dativ"
+    ]
+   }
+  },
+  {
+   "id": "adj-10",
+   "type": "fill_blank",
+   "prompt": "Ich suche eine ___ Wohnung in Zürich. (günstig)",
+   "answers": [
+    "günstige"
+   ],
+   "tags": [
+    "adjective-endings"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "ein-Wort, Akk fem. → -e.",
+   "diagnostic": {
+    "question": "Kasus? (Nom/Akk/Dat/Gen)",
+    "answers": [
+     "Akk",
+     "Akkusativ"
+    ]
+   }
+  },
+  {
+   "id": "np-01",
+   "type": "fill_blank",
+   "prompt": "Viele ___ stehen jeden Morgen im Stau. (pendeln)",
+   "answers": [
+    "Pendelnde"
+   ],
+   "tags": [
+    "nominalized-participles"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Wie ein Adjektiv ohne Artikel, Plural Nom → -e.",
+   "contrast": "pendelnde"
+  },
+  {
+   "id": "np-02",
+   "type": "fill_blank",
+   "prompt": "Ein ___ wartet am Bahnhof. (pendeln)",
+   "answers": [
+    "Pendelnder"
+   ],
+   "tags": [
+    "nominalized-participles"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "ein + mask. Nom → -er (wie 'ein neuer').",
+   "contrast": "pendelnde"
+  },
+  {
+   "id": "np-03",
+   "type": "fill_blank",
+   "prompt": "Die ___ am Gleis 3 müssen umsteigen. (reisen)",
+   "answers": [
+    "Reisenden"
+   ],
+   "tags": [
+    "nominalized-participles"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "die + Plural → -en."
+  },
+  {
+   "id": "np-04",
+   "type": "fill_blank",
+   "prompt": "Für ___ gibt es ein günstiges Abo. (studieren)",
+   "answers": [
+    "Studierende"
+   ],
+   "tags": [
+    "nominalized-participles"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Ohne Artikel, Plural Akk → -e."
+  },
+  {
+   "id": "np-05",
+   "type": "fill_blank",
+   "prompt": "Der ___ kannte die Strecke gut. (fahren)",
+   "answers": [
+    "Fahrende"
+   ],
+   "tags": [
+    "nominalized-participles"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "der + Nom Sg. → -e."
+  },
+  {
+   "id": "np-06",
+   "type": "fill_blank",
+   "prompt": "Wir haben mit mehreren ___ gesprochen. (reisen)",
+   "answers": [
+    "Reisenden"
+   ],
+   "tags": [
+    "nominalized-participles",
+    "dative-plural"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Dativ Plural → -en."
+  },
+  {
+   "id": "p2-01",
+   "type": "fill_blank",
+   "prompt": "Ich habe ihn um Hilfe ___. (bitten)",
+   "answers": [
+    "gebeten"
+   ],
+   "tags": [
+    "partizip-ii"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "bitten – bat – gebeten (stark)."
+  },
+  {
+   "id": "p2-02",
+   "type": "fill_blank",
+   "prompt": "Wir haben lange miteinander ___. (sprechen)",
+   "answers": [
+    "gesprochen"
+   ],
+   "tags": [
+    "partizip-ii"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "p2-03",
+   "type": "fill_blank",
+   "prompt": "Hast du den Bericht schon ___? (schreiben)",
+   "answers": [
+    "geschrieben"
+   ],
+   "tags": [
+    "partizip-ii"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "p2-04",
+   "type": "fill_blank",
+   "prompt": "Ich habe lange eine Wohnung ___. (suchen)",
+   "answers": [
+    "gesucht"
+   ],
+   "tags": [
+    "partizip-ii"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "schwach: ge- + -t."
+  },
+  {
+   "id": "p2-05",
+   "type": "fill_blank",
+   "prompt": "Die Forscher haben einen Fehler ___. (entdecken)",
+   "answers": [
+    "entdeckt"
+   ],
+   "tags": [
+    "partizip-ii"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Kein ge- nach ent-."
+  },
+  {
+   "id": "p2-06",
+   "type": "fill_blank",
+   "prompt": "Der Tunnel wurde 2016 ___. (eröffnen)",
+   "answers": [
+    "eröffnet"
+   ],
+   "tags": [
+    "partizip-ii",
+    "passive"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Kein ge- nach er-."
+  },
+  {
+   "id": "p2-07",
+   "type": "fill_blank",
+   "prompt": "Das Modell wurde an der ETH ___. (entwickeln)",
+   "answers": [
+    "entwickelt"
+   ],
+   "tags": [
+    "partizip-ii",
+    "passive",
+    "spelling"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Kein ge- nach ent-."
+  },
+  {
+   "id": "p2-08",
+   "type": "fill_blank",
+   "prompt": "Sie hat das Problem sofort ___. (verstehen)",
+   "answers": [
+    "verstanden"
+   ],
+   "tags": [
+    "partizip-ii"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Kein ge- nach ver-."
+  },
+  {
+   "id": "p2-09",
+   "type": "error_correction",
+   "prompt": "Ich habe ihn um Hilfe gebittet.",
+   "answers": [
+    "Ich habe ihn um Hilfe gebeten."
+   ],
+   "tags": [
+    "partizip-ii"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "p2-10",
+   "type": "error_correction",
+   "prompt": "Wir haben ein neues Verfahren geentwickelt.",
+   "answers": [
+    "Wir haben ein neues Verfahren entwickelt."
+   ],
+   "tags": [
+    "partizip-ii"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "pa-01",
+   "type": "fill_blank",
+   "prompt": "Ich ___ heute um sechs aufgestanden. (sein/haben)",
+   "answers": [
+    "bin"
+   ],
+   "tags": [
+    "perfekt-aux"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "aufstehen → sein (Zustandsänderung)."
+  },
+  {
+   "id": "pa-02",
+   "type": "fill_blank",
+   "prompt": "Wir ___ mit dem Zug nach Basel gefahren. (sein/haben)",
+   "answers": [
+    "sind"
+   ],
+   "tags": [
+    "perfekt-aux"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "fahren ohne Objekt → sein.",
+   "contrast": "fahren-aux"
+  },
+  {
+   "id": "pa-03",
+   "type": "fill_blank",
+   "prompt": "Ich ___ das Auto in die Garage gefahren. (sein/haben)",
+   "answers": [
+    "habe"
+   ],
+   "tags": [
+    "perfekt-aux"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "fahren mit Akkusativobjekt (das Auto) → haben.",
+   "contrast": "fahren-aux"
+  },
+  {
+   "id": "pa-04",
+   "type": "fill_blank",
+   "prompt": "Sie ___ zwei Wochen in Spanien geblieben. (sein/haben)",
+   "answers": [
+    "ist"
+   ],
+   "tags": [
+    "perfekt-aux"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "bleiben → sein."
+  },
+  {
+   "id": "pa-05",
+   "type": "error_correction",
+   "prompt": "Ich habe letztes Jahr nach Rom gereist.",
+   "answers": [
+    "Ich bin letztes Jahr nach Rom gereist."
+   ],
+   "tags": [
+    "perfekt-aux"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "reisen → sein.",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "pa-06",
+   "type": "transform",
+   "prompt": "Ich wusste das nicht, deshalb bin ich nicht früher gekommen.",
+   "answers": [
+    "Wenn ich das gewusst hätte, wäre ich früher gekommen.",
+    "Hätte ich das gewusst, wäre ich früher gekommen."
+   ],
+   "tags": [
+    "perfekt-aux"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Irreale Vergangenheit: hätte/wäre + Partizip II, nie würde.",
+   "instruction": "Irreale Vergangenheit (wenn …)."
+  },
+  {
+   "id": "pa-07",
+   "type": "error_correction",
+   "prompt": "Wenn ich mehr gelernt würde, hätte ich die Prüfung bestanden.",
+   "answers": [
+    "Wenn ich mehr gelernt hätte, hätte ich die Prüfung bestanden."
+   ],
+   "tags": [
+    "perfekt-aux",
+    "wuerde-vs-wurde"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Vergangenheit irreal: hätte + Partizip II.",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "pas-01",
+   "type": "fill_blank",
+   "prompt": "Die Brücke ___ gerade saniert. (werden, Präsens)",
+   "answers": [
+    "wird"
+   ],
+   "tags": [
+    "passive"
+   ],
+   "source": "seed-2026-10-12",
+   "contrast": "wird-wurde"
+  },
+  {
+   "id": "pas-02",
+   "type": "fill_blank",
+   "prompt": "Die Brücke ___ letztes Jahr saniert. (werden, Präteritum)",
+   "answers": [
+    "wurde"
+   ],
+   "tags": [
+    "passive"
+   ],
+   "source": "seed-2026-10-12",
+   "contrast": "wird-wurde"
+  },
+  {
+   "id": "pas-03",
+   "type": "fill_blank",
+   "prompt": "Der Plan wurde ___ der Stadt genehmigt.",
+   "answers": [
+    "von"
+   ],
+   "tags": [
+    "passive"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Agens im Passiv: von + Dativ (nie bei)."
+  },
+  {
+   "id": "pas-04",
+   "type": "error_correction",
+   "prompt": "Der Fehler wurde bei meinem Kollegen gefunden.",
+   "answers": [
+    "Der Fehler wurde von meinem Kollegen gefunden."
+   ],
+   "tags": [
+    "passive"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Agens: von + Dativ.",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "pas-05",
+   "type": "transform",
+   "prompt": "Die Stadt baute den Tunnel 2010.",
+   "answers": [
+    "Der Tunnel wurde 2010 von der Stadt gebaut.",
+    "Der Tunnel wurde von der Stadt 2010 gebaut."
+   ],
+   "tags": [
+    "passive"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Ins Passiv (Präteritum), mit Agens."
+  },
+  {
+   "id": "pas-06",
+   "type": "transform",
+   "prompt": "Man saniert die Straße im Sommer.",
+   "answers": [
+    "Die Straße wird im Sommer saniert.",
+    "Im Sommer wird die Straße saniert."
+   ],
+   "tags": [
+    "passive"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Im Passiv kein 'man'.",
+   "instruction": "Ins Passiv (Präsens)."
+  },
+  {
+   "id": "pas-07",
+   "type": "error_correction",
+   "prompt": "Man wurde die Straße gesperrt.",
+   "answers": [
+    "Die Straße wurde gesperrt."
+   ],
+   "tags": [
+    "passive"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "pas-08",
+   "type": "fill_blank",
+   "prompt": "Er ___ 2020 Teil des Teams. (werden, Präteritum)",
+   "answers": [
+    "wurde"
+   ],
+   "tags": [
+    "passive",
+    "wuerde-vs-wurde"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "werden als Vollverb ('wurde Teil') ist KEIN Passiv."
+  },
+  {
+   "id": "pas-09",
+   "type": "speaking",
+   "prompt": "Sag: \"The bridge was built in 1990.\"",
+   "answers": [
+    "Die Brücke wurde 1990 gebaut."
+   ],
+   "tags": [
+    "passive",
+    "wuerde-vs-wurde"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Jahreszahl ohne 'in'."
+  },
+  {
+   "id": "k1-01",
+   "type": "fill_blank",
+   "prompt": "Der Professor sagt, er ___ keine Zeit. (haben)",
+   "answers": [
+    "habe"
+   ],
+   "tags": [
+    "konjunktiv-1"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "k1-02",
+   "type": "fill_blank",
+   "prompt": "Sie sagt, sie ___ krank. (sein)",
+   "answers": [
+    "sei"
+   ],
+   "tags": [
+    "konjunktiv-1"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "k1-03",
+   "type": "fill_blank",
+   "prompt": "Er meint, man ___ das Projekt verschieben. (müssen)",
+   "answers": [
+    "müsse"
+   ],
+   "tags": [
+    "konjunktiv-1"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "k1-04",
+   "type": "fill_blank",
+   "prompt": "Sie sagt, sie ___ morgen mitkommen. (wollen)",
+   "answers": [
+    "wolle"
+   ],
+   "tags": [
+    "konjunktiv-1"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "wollen → wolle (ohne Umlaut)."
+  },
+  {
+   "id": "k1-05",
+   "type": "fill_blank",
+   "prompt": "Er sagt, er ___ das nicht. (können)",
+   "answers": [
+    "könne"
+   ],
+   "tags": [
+    "konjunktiv-1"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "k1-06",
+   "type": "fill_blank",
+   "prompt": "Die Studierenden sagen, sie ___ mehr Zeit. (haben)",
+   "answers": [
+    "hätten"
+   ],
+   "tags": [
+    "konjunktiv-1"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Konj. I 'sie haben' = Indikativ → Konjunktiv II nehmen."
+  },
+  {
+   "id": "k1-07",
+   "type": "transform",
+   "prompt": "Der Chef sagt: \"Das Projekt ist machbar.\"",
+   "answers": [
+    "Der Chef sagt, das Projekt sei machbar.",
+    "Der Chef sagt, dass das Projekt machbar sei."
+   ],
+   "tags": [
+    "konjunktiv-1"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Indirekte Rede (Konjunktiv I)."
+  },
+  {
+   "id": "k1-08",
+   "type": "error_correction",
+   "prompt": "Er sagt, er wölle mitkommen.",
+   "answers": [
+    "Er sagt, er wolle mitkommen."
+   ],
+   "tags": [
+    "konjunktiv-1"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "k1-09",
+   "type": "speaking",
+   "prompt": "Sag in indirekter Rede: Er sagt: \"Ich habe keine Zeit.\"",
+   "answers": [
+    "Er sagt, er habe keine Zeit."
+   ],
+   "tags": [
+    "konjunktiv-1"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "dp-01",
+   "type": "fill_blank",
+   "prompt": "Ich spreche mit den ___. (Ingenieur, Pl.)",
+   "answers": [
+    "Ingenieuren"
+   ],
+   "tags": [
+    "dative-plural"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Dativ Plural: den + -n."
+  },
+  {
+   "id": "dp-02",
+   "type": "fill_blank",
+   "prompt": "Sie liest den ___ eine Geschichte vor. (Kind, Pl.)",
+   "answers": [
+    "Kindern"
+   ],
+   "tags": [
+    "dative-plural"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "dp-03",
+   "type": "error_correction",
+   "prompt": "Ich habe mit den Studenten und den Professor gesprochen.",
+   "answers": [
+    "Ich habe mit den Studenten und den Professoren gesprochen."
+   ],
+   "tags": [
+    "dative-plural"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "gen-01",
+   "type": "fill_blank",
+   "prompt": "Wegen ___ Staus kam ich zu spät. (der)",
+   "answers": [
+    "des"
+   ],
+   "tags": [
+    "genitive"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "wegen + Genitiv: des Staus.",
+   "contrast": "wegen-des"
+  },
+  {
+   "id": "gen-02",
+   "type": "error_correction",
+   "prompt": "Wegen dem Regen bleiben wir zu Hause.",
+   "answers": [
+    "Wegen des Regens bleiben wir zu Hause."
+   ],
+   "tags": [
+    "genitive"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Schriftlich: wegen + Genitiv.",
+   "instruction": "Finde und korrigiere den Fehler.",
+   "contrast": "wegen-des"
+  },
+  {
+   "id": "gen-03",
+   "type": "fill_blank",
+   "prompt": "Trotz ___ Verspätung haben wir den Anschluss erreicht. (die)",
+   "answers": [
+    "der"
+   ],
+   "tags": [
+    "genitive"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gen-04",
+   "type": "fill_blank",
+   "prompt": "Während ___ Semesters arbeite ich Teilzeit. (das)",
+   "answers": [
+    "des"
+   ],
+   "tags": [
+    "genitive"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gen-05",
+   "type": "fill_blank",
+   "prompt": "Innerhalb ___ Stadt gilt Tempo 30. (die)",
+   "answers": [
+    "der"
+   ],
+   "tags": [
+    "genitive"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gen-06",
+   "type": "fill_blank",
+   "prompt": "Aufgrund ___ Bauarbeiten ist die Straße gesperrt. (die, Pl.)",
+   "answers": [
+    "der"
+   ],
+   "tags": [
+    "genitive"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Genitiv Plural immer 'der'."
+  },
+  {
+   "id": "gen-07",
+   "type": "fill_blank",
+   "prompt": "Außerhalb ___ Ballungsraums gibt es kaum Busse. (der)",
+   "answers": [
+    "des"
+   ],
+   "tags": [
+    "genitive"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gen-08",
+   "type": "fill_blank",
+   "prompt": "___ ich koche, hört sie Musik. (while)",
+   "answers": [
+    "Während"
+   ],
+   "tags": [
+    "genitive"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "während als Konjunktion: Verb am Ende."
+  },
+  {
+   "id": "tw-01",
+   "type": "fill_blank",
+   "prompt": "Der Zug fährt in ___ Tunnel. (der)",
+   "answers": [
+    "den"
+   ],
+   "tags": [
+    "two-way-prepositions"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Richtung (wohin?) → Akkusativ.",
+   "contrast": "tunnel",
+   "diagnostic": {
+    "question": "Wo oder wohin?",
+    "answers": [
+     "wohin"
+    ]
+   }
+  },
+  {
+   "id": "tw-02",
+   "type": "fill_blank",
+   "prompt": "Der Zug hält ___ Tunnel. (in + der)",
+   "answers": [
+    "im"
+   ],
+   "tags": [
+    "two-way-prepositions"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Ort (wo?) → Dativ: in dem = im.",
+   "contrast": "tunnel",
+   "diagnostic": {
+    "question": "Wo oder wohin?",
+    "answers": [
+     "wo"
+    ]
+   }
+  },
+  {
+   "id": "tw-03",
+   "type": "fill_blank",
+   "prompt": "Ich hänge das Bild an ___ Wand. (die)",
+   "answers": [
+    "die"
+   ],
+   "tags": [
+    "two-way-prepositions"
+   ],
+   "source": "seed-2026-10-12",
+   "contrast": "wand",
+   "diagnostic": {
+    "question": "Wo oder wohin?",
+    "answers": [
+     "wohin"
+    ]
+   }
+  },
+  {
+   "id": "tw-04",
+   "type": "fill_blank",
+   "prompt": "Das Bild hängt an ___ Wand. (die)",
+   "answers": [
+    "der"
+   ],
+   "tags": [
+    "two-way-prepositions"
+   ],
+   "source": "seed-2026-10-12",
+   "contrast": "wand",
+   "diagnostic": {
+    "question": "Wo oder wohin?",
+    "answers": [
+     "wo"
+    ]
+   }
+  },
+  {
+   "id": "tw-05",
+   "type": "fill_blank",
+   "prompt": "Das Auto fährt in ___ Kreisverkehr. (der)",
+   "answers": [
+    "den"
+   ],
+   "tags": [
+    "two-way-prepositions"
+   ],
+   "source": "seed-2026-10-12",
+   "contrast": "kreis",
+   "diagnostic": {
+    "question": "Wo oder wohin?",
+    "answers": [
+     "wohin"
+    ]
+   }
+  },
+  {
+   "id": "tw-06",
+   "type": "fill_blank",
+   "prompt": "Das Auto steht ___ Kreisverkehr. (in + der)",
+   "answers": [
+    "im"
+   ],
+   "tags": [
+    "two-way-prepositions"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Ort (wo?) → Dativ: im.",
+   "contrast": "kreis",
+   "diagnostic": {
+    "question": "Wo oder wohin?",
+    "answers": [
+     "wo"
+    ]
+   }
+  },
+  {
+   "id": "rel-01",
+   "type": "fill_blank",
+   "prompt": "Das ist der Professor, ___ ich gestern geholfen habe.",
+   "answers": [
+    "dem"
+   ],
+   "tags": [
+    "relative-clauses"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "helfen + Dativ → dem."
+  },
+  {
+   "id": "rel-02",
+   "type": "fill_blank",
+   "prompt": "Die Brücke, ___ wir gebaut haben, ist 200 m lang.",
+   "answers": [
+    "die"
+   ],
+   "tags": [
+    "relative-clauses"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "rel-03",
+   "type": "fill_blank",
+   "prompt": "Das ist das Projekt, an ___ ich gerade arbeite.",
+   "answers": [
+    "dem"
+   ],
+   "tags": [
+    "relative-clauses"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "arbeiten an + Dativ."
+  },
+  {
+   "id": "rel-04",
+   "type": "fill_blank",
+   "prompt": "Der Kollege, mit ___ ich das Gutachten schreibe, ist krank.",
+   "answers": [
+    "dem"
+   ],
+   "tags": [
+    "relative-clauses"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "rel-05",
+   "type": "fill_blank",
+   "prompt": "Die Themen, über ___ wir gesprochen haben, sind wichtig.",
+   "answers": [
+    "die"
+   ],
+   "tags": [
+    "relative-clauses"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "sprechen über + Akk, Plural."
+  },
+  {
+   "id": "rel-06",
+   "type": "fill_blank",
+   "prompt": "Der Mann, ___ Auto im Stau steht, ist mein Nachbar.",
+   "answers": [
+    "dessen"
+   ],
+   "tags": [
+    "relative-clauses"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "rel-07",
+   "type": "transform",
+   "prompt": "Ich habe einen Freund. Sein Bruder studiert an der ETH.",
+   "answers": [
+    "Ich habe einen Freund, dessen Bruder an der ETH studiert."
+   ],
+   "tags": [
+    "relative-clauses"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Verbinde mit einem Relativsatz."
+  },
+  {
+   "id": "vp-01",
+   "type": "fill_blank",
+   "prompt": "Ich warte ___ den Bus.",
+   "answers": [
+    "auf"
+   ],
+   "tags": [
+    "verb-preposition-pairs"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "vp-02",
+   "type": "fill_blank",
+   "prompt": "Ich freue mich ___ das Wochenende.",
+   "answers": [
+    "auf"
+   ],
+   "tags": [
+    "verb-preposition-pairs"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "sich freuen auf (Zukunft) + Akk."
+  },
+  {
+   "id": "vp-03",
+   "type": "fill_blank",
+   "prompt": "Ich bereite mich ___ die Prüfung vor.",
+   "answers": [
+    "auf"
+   ],
+   "tags": [
+    "verb-preposition-pairs",
+    "reflexive"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "vp-04",
+   "type": "fill_blank",
+   "prompt": "Das hängt ___ Wetter ab. (von + dem)",
+   "answers": [
+    "vom"
+   ],
+   "tags": [
+    "verb-preposition-pairs"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "vp-05",
+   "type": "fill_blank",
+   "prompt": "Die Brücke besteht ___ Stahl und Beton.",
+   "answers": [
+    "aus"
+   ],
+   "tags": [
+    "verb-preposition-pairs"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "vp-06",
+   "type": "fill_blank",
+   "prompt": "Ich nehme ___ Kurs teil. (an + dem)",
+   "answers": [
+    "am"
+   ],
+   "tags": [
+    "verb-preposition-pairs"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "teilnehmen an + Dativ."
+  },
+  {
+   "id": "vp-07",
+   "type": "fill_blank",
+   "prompt": "Ich schicke die E-Mail ___ den Professor.",
+   "answers": [
+    "an"
+   ],
+   "tags": [
+    "verb-preposition-pairs"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "vp-08",
+   "type": "fill_blank",
+   "prompt": "Ich bin gespannt ___ das Ergebnis.",
+   "answers": [
+    "auf"
+   ],
+   "tags": [
+    "verb-preposition-pairs"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "gespannt auf + Nomen.",
+   "contrast": "gespannt"
+  },
+  {
+   "id": "vp-09",
+   "type": "fill_blank",
+   "prompt": "Ich bin gespannt, ___ das Projekt ausgeht. (auf + wie)",
+   "answers": [
+    "darauf, wie"
+   ],
+   "tags": [
+    "verb-preposition-pairs"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Vor einem Nebensatz: darauf, wie/ob/dass …",
+   "contrast": "gespannt"
+  },
+  {
+   "id": "vp-10",
+   "type": "fill_blank",
+   "prompt": "Er ist Professor ___ Verkehrsplanung.",
+   "answers": [
+    "für"
+   ],
+   "tags": [
+    "verb-preposition-pairs"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "vp-11",
+   "type": "speaking",
+   "prompt": "Sag: \"I'm looking forward to the weekend.\"",
+   "answers": [
+    "Ich freue mich auf das Wochenende.",
+    "Ich freue mich aufs Wochenende."
+   ],
+   "tags": [
+    "verb-preposition-pairs",
+    "reflexive"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "zu-01",
+   "type": "fill_blank",
+   "prompt": "Ich versuche, jeden Tag Deutsch ___. (sprechen)",
+   "answers": [
+    "zu sprechen"
+   ],
+   "tags": [
+    "zu-infinitive"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "zu-02",
+   "type": "fill_blank",
+   "prompt": "Ich muss morgen früh ___. (aufstehen)",
+   "answers": [
+    "aufstehen"
+   ],
+   "tags": [
+    "zu-infinitive"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Nach Modalverben kein zu.",
+   "contrast": "zu-modal"
+  },
+  {
+   "id": "zu-03",
+   "type": "fill_blank",
+   "prompt": "Ich habe vor, morgen früh ___. (aufstehen)",
+   "answers": [
+    "aufzustehen"
+   ],
+   "tags": [
+    "zu-infinitive"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Trennbare Verben: auf-zu-stehen.",
+   "contrast": "zu-modal"
+  },
+  {
+   "id": "zu-04",
+   "type": "fill_blank",
+   "prompt": "Ich fahre nach Zürich, ___ dort zu arbeiten.",
+   "answers": [
+    "um"
+   ],
+   "tags": [
+    "zu-infinitive"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Zweck: um … zu."
+  },
+  {
+   "id": "zu-05",
+   "type": "fill_blank",
+   "prompt": "Laufen hilft mir, den Kopf ___. (freibekommen)",
+   "answers": [
+    "freizubekommen"
+   ],
+   "tags": [
+    "zu-infinitive"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "zu-06",
+   "type": "error_correction",
+   "prompt": "Ich hoffe, dich bald sehen.",
+   "answers": [
+    "Ich hoffe, dich bald zu sehen."
+   ],
+   "tags": [
+    "zu-infinitive"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "zu-07",
+   "type": "error_correction",
+   "prompt": "Ich kann morgen nicht zu kommen.",
+   "answers": [
+    "Ich kann morgen nicht kommen."
+   ],
+   "tags": [
+    "zu-infinitive"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "aw-01",
+   "type": "fill_blank",
+   "prompt": "___ ich 2019 nach Zürich kam, sprach ich kaum Deutsch.",
+   "answers": [
+    "Als"
+   ],
+   "tags": [
+    "als-wenn-wie"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Einmaliges Ereignis in der Vergangenheit → als."
+  },
+  {
+   "id": "aw-02",
+   "type": "fill_blank",
+   "prompt": "Immer ___ es regnet, nehme ich den Bus.",
+   "answers": [
+    "wenn"
+   ],
+   "tags": [
+    "als-wenn-wie"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Wiederholung → wenn."
+  },
+  {
+   "id": "aw-03",
+   "type": "fill_blank",
+   "prompt": "Zürich ist teurer ___ Madrid.",
+   "answers": [
+    "als"
+   ],
+   "tags": [
+    "als-wenn-wie"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Komparativ + als.",
+   "contrast": "als-wie"
+  },
+  {
+   "id": "aw-04",
+   "type": "fill_blank",
+   "prompt": "Der Tunnel ist so lang ___ die Brücke.",
+   "answers": [
+    "wie"
+   ],
+   "tags": [
+    "als-wenn-wie"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "so … wie.",
+   "contrast": "als-wie"
+  },
+  {
+   "id": "aw-05",
+   "type": "error_correction",
+   "prompt": "Wenn ich gestern nach Hause kam, war niemand da.",
+   "answers": [
+    "Als ich gestern nach Hause kam, war niemand da."
+   ],
+   "tags": [
+    "als-wenn-wie"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "es-01",
+   "type": "error_correction",
+   "prompt": "Ich habe es versucht, früher zu kommen.",
+   "answers": [
+    "Ich habe versucht, früher zu kommen."
+   ],
+   "tags": [
+    "superfluous-es"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "es-02",
+   "type": "error_correction",
+   "prompt": "Ich habe es gesehen, dass du angerufen hast.",
+   "answers": [
+    "Ich habe gesehen, dass du angerufen hast."
+   ],
+   "tags": [
+    "superfluous-es"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "jd-01",
+   "type": "transform",
+   "prompt": "Je mehr ich übe, … (ich spreche flüssiger)",
+   "answers": [
+    "Je mehr ich übe, desto flüssiger spreche ich."
+   ],
+   "tags": [
+    "je-desto"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Nach desto + Komparativ kommt direkt das Verb.",
+   "instruction": "Ergänze mit desto."
+  },
+  {
+   "id": "jd-02",
+   "type": "error_correction",
+   "prompt": "Je früher wir anfangen, desto wir sind schneller fertig.",
+   "answers": [
+    "Je früher wir anfangen, desto schneller sind wir fertig."
+   ],
+   "tags": [
+    "je-desto"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "mp-01",
+   "type": "fill_blank",
+   "prompt": "Als Kind ___ ich keinen Spinat. (mögen, Präteritum)",
+   "answers": [
+    "mochte"
+   ],
+   "tags": [
+    "modal-praeteritum"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "mochte = Präteritum von mögen.",
+   "contrast": "mochte"
+  },
+  {
+   "id": "mp-02",
+   "type": "fill_blank",
+   "prompt": "Ich ___ bitte einen Kaffee. (höflicher Wunsch)",
+   "answers": [
+    "möchte"
+   ],
+   "tags": [
+    "modal-praeteritum"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "möchte = Konjunktiv II (Wunsch).",
+   "contrast": "mochte"
+  },
+  {
+   "id": "mp-03",
+   "type": "fill_blank",
+   "prompt": "Gestern ___ ich nicht kommen. (können)",
+   "answers": [
+    "konnte"
+   ],
+   "tags": [
+    "modal-praeteritum"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Präteritum der Modalverben ohne Umlaut."
+  },
+  {
+   "id": "mp-04",
+   "type": "fill_blank",
+   "prompt": "Wir ___ den Bericht bis Freitag abgeben. (müssen, Präteritum)",
+   "answers": [
+    "mussten"
+   ],
+   "tags": [
+    "modal-praeteritum"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "mp-05",
+   "type": "fill_blank",
+   "prompt": "Er ___ nicht mitkommen. (dürfen, Präteritum)",
+   "answers": [
+    "durfte"
+   ],
+   "tags": [
+    "modal-praeteritum"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "mp-06",
+   "type": "error_correction",
+   "prompt": "Ich wollte habe mehr Zeit.",
+   "answers": [
+    "Ich wollte mehr Zeit haben."
+   ],
+   "tags": [
+    "modal-praeteritum"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Modalverb + Infinitiv am Ende.",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "rf-01",
+   "type": "fill_blank",
+   "prompt": "Der Zug hat ___ um zehn Minuten verspätet.",
+   "answers": [
+    "sich"
+   ],
+   "tags": [
+    "reflexive"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "rf-02",
+   "type": "fill_blank",
+   "prompt": "Ich muss ___ das noch überlegen.",
+   "answers": [
+    "mir"
+   ],
+   "tags": [
+    "reflexive"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "sich (Dativ) etwas überlegen."
+  },
+  {
+   "id": "rf-03",
+   "type": "fill_blank",
+   "prompt": "Das Büro befindet ___ im dritten Stock.",
+   "answers": [
+    "sich"
+   ],
+   "tags": [
+    "reflexive"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "rf-04",
+   "type": "fill_blank",
+   "prompt": "Ich fühle ___ hier sehr wohl.",
+   "answers": [
+    "mich"
+   ],
+   "tags": [
+    "reflexive"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "rf-05",
+   "type": "error_correction",
+   "prompt": "Der Zug hat sich um zehn Minuten verschoben.",
+   "answers": [
+    "Der Zug hat sich um zehn Minuten verspätet."
+   ],
+   "tags": [
+    "reflexive",
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "sich verspäten = to be late. sich verschieben = to be postponed/shift.",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "na-01",
+   "type": "vocab",
+   "prompt": "breit → Nomen (mit Artikel)",
+   "answers": [
+    "die Breite"
+   ],
+   "tags": [
+    "nominalization-from-adjective",
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "die Breite = width"
+  },
+  {
+   "id": "na-02",
+   "type": "vocab",
+   "prompt": "lang → Nomen (mit Artikel)",
+   "answers": [
+    "die Länge"
+   ],
+   "tags": [
+    "nominalization-from-adjective",
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "die Länge = length"
+  },
+  {
+   "id": "na-03",
+   "type": "vocab",
+   "prompt": "hoch → Nomen (mit Artikel)",
+   "answers": [
+    "die Höhe"
+   ],
+   "tags": [
+    "nominalization-from-adjective",
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "die Höhe = height"
+  },
+  {
+   "id": "na-04",
+   "type": "vocab",
+   "prompt": "tief → Nomen (mit Artikel)",
+   "answers": [
+    "die Tiefe"
+   ],
+   "tags": [
+    "nominalization-from-adjective",
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "die Tiefe = depth"
+  },
+  {
+   "id": "na-05",
+   "type": "vocab",
+   "prompt": "stark → Nomen (mit Artikel)",
+   "answers": [
+    "die Stärke"
+   ],
+   "tags": [
+    "nominalization-from-adjective",
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "die Stärke = strength"
+  },
+  {
+   "id": "na-06",
+   "type": "vocab",
+   "prompt": "schwer → Nomen (mit Artikel)",
+   "answers": [
+    "das Gewicht"
+   ],
+   "tags": [
+    "nominalization-from-adjective",
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "das Gewicht = weight"
+  },
+  {
+   "id": "mt-01",
+   "type": "error_correction",
+   "prompt": "Letzte Woche ich habe meinen Onkel besucht. Weil er hatte keine Zeit, wir sind nur kurz geblieben.",
+   "answers": [
+    "Letzte Woche habe ich meinen Onkel besucht. Weil er keine Zeit hatte, sind wir nur kurz geblieben."
+   ],
+   "tags": [
+    "v2-main-clause",
+    "weil-subject-position",
+    "verb-final"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "V2 im Hauptsatz; Verb am Ende im weil-Satz; nach dem Nebensatz kommt sofort das Verb.",
+   "instruction": "Korrigiere den Mini-Text (3 Fehler)."
+  },
+  {
+   "id": "mt-02",
+   "type": "error_correction",
+   "prompt": "Die Brücke würde 1990 gebaut. Heute wird sie von den Ingenieuren saniert, weil sie ist zu alt.",
+   "answers": [
+    "Die Brücke wurde 1990 gebaut. Heute wird sie von den Ingenieuren saniert, weil sie zu alt ist."
+   ],
+   "tags": [
+    "wuerde-vs-wurde",
+    "passive",
+    "verb-final"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Korrigiere den Mini-Text (2 Fehler)."
+  },
+  {
+   "id": "mt-03",
+   "type": "error_correction",
+   "prompt": "Wegen dem Stau ich bin zu spät gekommen. Der Professor hat gesagt, dass ich soll die E-Mail an ihm schicken.",
+   "answers": [
+    "Wegen des Staus bin ich zu spät gekommen. Der Professor hat gesagt, dass ich die E-Mail an ihn schicken soll."
+   ],
+   "tags": [
+    "genitive",
+    "v2-main-clause",
+    "verb-final",
+    "verb-preposition-pairs"
+   ],
+   "source": "seed-2026-10-12",
+   "instruction": "Korrigiere den Mini-Text (4 Fehler)."
+  }
+ ]
+}

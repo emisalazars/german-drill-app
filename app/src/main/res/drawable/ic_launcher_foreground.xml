@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple "Ä" mark in black, red, gold bands. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FF2B2B2B" android:pathData="M30,34h48v13.3h-48z" />
+    <path android:fillColor="#FFDD3333" android:pathData="M30,47.3h48v13.4h-48z" />
+    <path android:fillColor="#FFFFC94D" android:pathData="M30,60.7h48v13.3h-48z" />
+</vector>

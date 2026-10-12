@@ -1,0 +1,723 @@
+{
+ "source": "seed-2026-10-12",
+ "cards": [
+  {
+   "id": "vo-01-en",
+   "type": "vocab",
+   "prompt": "to be late (DE?)",
+   "answers": [
+    "sich verspäten"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Der Zug hat sich um zehn Minuten verspätet."
+  },
+  {
+   "id": "vo-01-de",
+   "type": "vocab",
+   "prompt": "sich verspäten (EN?)",
+   "answers": [
+    "to be late",
+    "to be delayed"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Der Zug hat sich um zehn Minuten verspätet."
+  },
+  {
+   "id": "vo-02-en",
+   "type": "vocab",
+   "prompt": "to go (DE?)",
+   "answers": [
+    "verlaufen"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Die Sitzung ist gut verlaufen."
+  },
+  {
+   "id": "vo-02-de",
+   "type": "vocab",
+   "prompt": "verlaufen (EN?)",
+   "answers": [
+    "to go",
+    "to proceed",
+    "to run"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Die Sitzung ist gut verlaufen."
+  },
+  {
+   "id": "vo-03-en",
+   "type": "vocab",
+   "prompt": "to enable (DE?)",
+   "answers": [
+    "ermöglichen"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Der neue Tunnel ermöglicht kürzere Fahrzeiten."
+  },
+  {
+   "id": "vo-03-de",
+   "type": "vocab",
+   "prompt": "ermöglichen (EN?)",
+   "answers": [
+    "to enable",
+    "to make possible"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Der neue Tunnel ermöglicht kürzere Fahrzeiten."
+  },
+  {
+   "id": "vo-04-en",
+   "type": "vocab",
+   "prompt": "to pass (DE?)",
+   "answers": [
+    "bestehen"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Ich habe die Prüfung bestanden."
+  },
+  {
+   "id": "vo-04-de",
+   "type": "vocab",
+   "prompt": "bestehen (eine Prüfung) (EN?)",
+   "answers": [
+    "to pass"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Ich habe die Prüfung bestanden."
+  },
+  {
+   "id": "vo-05-en",
+   "type": "vocab",
+   "prompt": "submission (DE?)",
+   "answers": [
+    "die Abgabe"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Die Abgabe der Masterarbeit ist im Mai."
+  },
+  {
+   "id": "vo-05-de",
+   "type": "vocab",
+   "prompt": "die Abgabe (EN?)",
+   "answers": [
+    "submission",
+    "hand-in"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Die Abgabe der Masterarbeit ist im Mai."
+  },
+  {
+   "id": "vo-06-en",
+   "type": "vocab",
+   "prompt": "to design (DE?)",
+   "answers": [
+    "gestalten"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Wir gestalten den Platz verkehrsberuhigt."
+  },
+  {
+   "id": "vo-06-de",
+   "type": "vocab",
+   "prompt": "gestalten (EN?)",
+   "answers": [
+    "to design",
+    "to shape"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Wir gestalten den Platz verkehrsberuhigt."
+  },
+  {
+   "id": "vo-07-en",
+   "type": "vocab",
+   "prompt": "assessment (DE?)",
+   "answers": [
+    "die Einschätzung"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Nach meiner Einschätzung ist das machbar."
+  },
+  {
+   "id": "vo-07-de",
+   "type": "vocab",
+   "prompt": "die Einschätzung (EN?)",
+   "answers": [
+    "assessment",
+    "estimate"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Nach meiner Einschätzung ist das machbar."
+  },
+  {
+   "id": "vo-08-en",
+   "type": "vocab",
+   "prompt": "impact (DE?)",
+   "answers": [
+    "die Auswirkung"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Die Auswirkungen auf den Verkehr sind groß."
+  },
+  {
+   "id": "vo-08-de",
+   "type": "vocab",
+   "prompt": "die Auswirkung (EN?)",
+   "answers": [
+    "impact",
+    "effect"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Die Auswirkungen auf den Verkehr sind groß."
+  },
+  {
+   "id": "vo-09-en",
+   "type": "vocab",
+   "prompt": "need for action (DE?)",
+   "answers": [
+    "der Handlungsbedarf"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Beim Lärmschutz besteht Handlungsbedarf."
+  },
+  {
+   "id": "vo-09-de",
+   "type": "vocab",
+   "prompt": "der Handlungsbedarf (EN?)",
+   "answers": [
+    "need for action"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Beim Lärmschutz besteht Handlungsbedarf."
+  },
+  {
+   "id": "vo-10-en",
+   "type": "vocab",
+   "prompt": "feasibility study (DE?)",
+   "answers": [
+    "die Machbarkeitsstudie"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Die Machbarkeitsstudie ist abgeschlossen."
+  },
+  {
+   "id": "vo-10-de",
+   "type": "vocab",
+   "prompt": "die Machbarkeitsstudie (EN?)",
+   "answers": [
+    "feasibility study"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Die Machbarkeitsstudie ist abgeschlossen."
+  },
+  {
+   "id": "vo-11-en",
+   "type": "vocab",
+   "prompt": "trade-off (DE?)",
+   "answers": [
+    "der Zielkonflikt"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Es gibt einen Zielkonflikt zwischen Kosten und Sicherheit."
+  },
+  {
+   "id": "vo-11-de",
+   "type": "vocab",
+   "prompt": "der Zielkonflikt (EN?)",
+   "answers": [
+    "trade-off",
+    "conflict of objectives"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Es gibt einen Zielkonflikt zwischen Kosten und Sicherheit."
+  },
+  {
+   "id": "vo-12-en",
+   "type": "vocab",
+   "prompt": "prerequisite (DE?)",
+   "answers": [
+    "die Voraussetzung"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Deutsch C1 ist eine Voraussetzung."
+  },
+  {
+   "id": "vo-12-de",
+   "type": "vocab",
+   "prompt": "die Voraussetzung (EN?)",
+   "answers": [
+    "prerequisite",
+    "requirement"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Deutsch C1 ist eine Voraussetzung."
+  },
+  {
+   "id": "vo-13-en",
+   "type": "vocab",
+   "prompt": "condition (DE?)",
+   "answers": [
+    "die Auflage"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Die Baubewilligung kam mit Auflagen."
+  },
+  {
+   "id": "vo-13-de",
+   "type": "vocab",
+   "prompt": "die Auflage (EN?)",
+   "answers": [
+    "condition",
+    "requirement"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Die Baubewilligung kam mit Auflagen."
+  },
+  {
+   "id": "vo-14-en",
+   "type": "vocab",
+   "prompt": "responsibility (DE?)",
+   "answers": [
+    "die Zuständigkeit"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Das liegt in der Zuständigkeit des Kantons."
+  },
+  {
+   "id": "vo-14-de",
+   "type": "vocab",
+   "prompt": "die Zuständigkeit (EN?)",
+   "answers": [
+    "responsibility",
+    "jurisdiction"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Das liegt in der Zuständigkeit des Kantons."
+  },
+  {
+   "id": "vo-15-en",
+   "type": "vocab",
+   "prompt": "framework conditions (DE?)",
+   "answers": [
+    "die Rahmenbedingungen"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Die Rahmenbedingungen haben sich geändert."
+  },
+  {
+   "id": "vo-15-de",
+   "type": "vocab",
+   "prompt": "die Rahmenbedingungen (EN?)",
+   "answers": [
+    "framework conditions",
+    "general conditions"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Die Rahmenbedingungen haben sich geändert."
+  },
+  {
+   "id": "vo-16-en",
+   "type": "vocab",
+   "prompt": "circumstances (DE?)",
+   "answers": [
+    "die Gegebenheiten"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Wir passen das Projekt den örtlichen Gegebenheiten an."
+  },
+  {
+   "id": "vo-16-de",
+   "type": "vocab",
+   "prompt": "die Gegebenheiten (EN?)",
+   "answers": [
+    "circumstances",
+    "local conditions"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Wir passen das Projekt den örtlichen Gegebenheiten an."
+  },
+  {
+   "id": "vo-17-en",
+   "type": "vocab",
+   "prompt": "specification (DE?)",
+   "answers": [
+    "die Vorgabe"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Die Vorgaben des Bundes sind streng."
+  },
+  {
+   "id": "vo-17-de",
+   "type": "vocab",
+   "prompt": "die Vorgabe (EN?)",
+   "answers": [
+    "specification",
+    "guideline",
+    "target"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Die Vorgaben des Bundes sind streng."
+  },
+  {
+   "id": "vo-18-en",
+   "type": "vocab",
+   "prompt": "inventory (DE?)",
+   "answers": [
+    "die Bestandsaufnahme"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Zuerst machen wir eine Bestandsaufnahme."
+  },
+  {
+   "id": "vo-18-de",
+   "type": "vocab",
+   "prompt": "die Bestandsaufnahme (EN?)",
+   "answers": [
+    "inventory",
+    "stocktaking"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Zuerst machen wir eine Bestandsaufnahme."
+  },
+  {
+   "id": "vo-19-en",
+   "type": "vocab",
+   "prompt": "metropolitan area (DE?)",
+   "answers": [
+    "der Ballungsraum"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Im Ballungsraum Zürich wächst der Verkehr."
+  },
+  {
+   "id": "vo-19-de",
+   "type": "vocab",
+   "prompt": "der Ballungsraum (EN?)",
+   "answers": [
+    "metropolitan area",
+    "conurbation"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Im Ballungsraum Zürich wächst der Verkehr."
+  },
+  {
+   "id": "vo-20-en",
+   "type": "vocab",
+   "prompt": "connection (DE?)",
+   "answers": [
+    "die Anbindung"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Die Anbindung an die S-Bahn ist gut."
+  },
+  {
+   "id": "vo-20-de",
+   "type": "vocab",
+   "prompt": "die Anbindung (EN?)",
+   "answers": [
+    "connection",
+    "link"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Die Anbindung an die S-Bahn ist gut."
+  },
+  {
+   "id": "vo-21-en",
+   "type": "vocab",
+   "prompt": "capacity (DE?)",
+   "answers": [
+    "die Kapazität"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Die Kapazität der Strecke ist erreicht."
+  },
+  {
+   "id": "vo-21-de",
+   "type": "vocab",
+   "prompt": "die Kapazität (EN?)",
+   "answers": [
+    "capacity"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Die Kapazität der Strecke ist erreicht."
+  },
+  {
+   "id": "vo-22-en",
+   "type": "vocab",
+   "prompt": "bottleneck (DE?)",
+   "answers": [
+    "der Engpass"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Der Engpass liegt vor dem Tunnel."
+  },
+  {
+   "id": "vo-22-de",
+   "type": "vocab",
+   "prompt": "der Engpass (EN?)",
+   "answers": [
+    "bottleneck"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Der Engpass liegt vor dem Tunnel."
+  },
+  {
+   "id": "vo-23-en",
+   "type": "vocab",
+   "prompt": "detour (DE?)",
+   "answers": [
+    "die Umleitung"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Wegen der Bauarbeiten gibt es eine Umleitung."
+  },
+  {
+   "id": "vo-23-de",
+   "type": "vocab",
+   "prompt": "die Umleitung (EN?)",
+   "answers": [
+    "detour",
+    "diversion"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Wegen der Bauarbeiten gibt es eine Umleitung."
+  },
+  {
+   "id": "vo-24-en",
+   "type": "vocab",
+   "prompt": "traffic hub (DE?)",
+   "answers": [
+    "der Verkehrsknoten"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Der Bahnhof ist ein wichtiger Verkehrsknoten."
+  },
+  {
+   "id": "vo-24-de",
+   "type": "vocab",
+   "prompt": "der Verkehrsknoten (EN?)",
+   "answers": [
+    "traffic hub",
+    "junction"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Der Bahnhof ist ein wichtiger Verkehrsknoten."
+  },
+  {
+   "id": "vo-25-en",
+   "type": "vocab",
+   "prompt": "traffic volume (DE?)",
+   "answers": [
+    "das Verkehrsaufkommen"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Das Verkehrsaufkommen steigt jedes Jahr."
+  },
+  {
+   "id": "vo-25-de",
+   "type": "vocab",
+   "prompt": "das Verkehrsaufkommen (EN?)",
+   "answers": [
+    "traffic volume"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Das Verkehrsaufkommen steigt jedes Jahr."
+  },
+  {
+   "id": "vo-26-en",
+   "type": "vocab",
+   "prompt": "traffic calming (DE?)",
+   "answers": [
+    "die Verkehrsberuhigung"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "hint": "Mit Artikel bei Nomen.",
+   "example": "Die Verkehrsberuhigung reduziert den Lärm."
+  },
+  {
+   "id": "vo-26-de",
+   "type": "vocab",
+   "prompt": "die Verkehrsberuhigung (EN?)",
+   "answers": [
+    "traffic calming"
+   ],
+   "tags": [
+    "vocab"
+   ],
+   "source": "seed-2026-10-12",
+   "example": "Die Verkehrsberuhigung reduziert den Lärm."
+  }
+ ]
+}

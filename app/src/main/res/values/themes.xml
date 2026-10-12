@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark window background avoids a white flash on launch. -->
+    <style name="Theme.DeutschDrill" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/launch_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+    <color name="launch_background">#FF121212</color>
+    <color name="ic_background">#FF1E1E1E</color>
+</resources>

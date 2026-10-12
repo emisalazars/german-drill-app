@@ -1,0 +1,745 @@
+{
+ "source": "seed-2026-10-12",
+ "cards": [
+  {
+   "id": "gd-e-mail",
+   "type": "fill_blank",
+   "prompt": "___ E-Mail",
+   "answers": [
+    "die"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-zukunft",
+   "type": "fill_blank",
+   "prompt": "___ Zukunft",
+   "answers": [
+    "die"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-welt",
+   "type": "fill_blank",
+   "prompt": "___ Welt",
+   "answers": [
+    "die"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-karriere",
+   "type": "fill_blank",
+   "prompt": "___ Karriere",
+   "answers": [
+    "die"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-option",
+   "type": "fill_blank",
+   "prompt": "___ Option",
+   "answers": [
+    "die"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-arbeit",
+   "type": "fill_blank",
+   "prompt": "___ Arbeit",
+   "answers": [
+    "die"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-art",
+   "type": "fill_blank",
+   "prompt": "___ Art",
+   "answers": [
+    "die"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-woche",
+   "type": "fill_blank",
+   "prompt": "___ Woche",
+   "answers": [
+    "die"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-brücke",
+   "type": "fill_blank",
+   "prompt": "___ Brücke",
+   "answers": [
+    "die"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-zeit",
+   "type": "fill_blank",
+   "prompt": "___ Zeit",
+   "answers": [
+    "die"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-gelegenheit",
+   "type": "fill_blank",
+   "prompt": "___ Gelegenheit",
+   "answers": [
+    "die"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-arbeitsstelle",
+   "type": "fill_blank",
+   "prompt": "___ Arbeitsstelle",
+   "answers": [
+    "die"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-beruf",
+   "type": "fill_blank",
+   "prompt": "___ Beruf",
+   "answers": [
+    "der"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-marathon",
+   "type": "fill_blank",
+   "prompt": "___ Marathon",
+   "answers": [
+    "der"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-plan",
+   "type": "fill_blank",
+   "prompt": "___ Plan",
+   "answers": [
+    "der"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-vortritt",
+   "type": "fill_blank",
+   "prompt": "___ Vortritt",
+   "answers": [
+    "der"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-kreisverkehr",
+   "type": "fill_blank",
+   "prompt": "___ Kreisverkehr",
+   "answers": [
+    "der"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-alltag",
+   "type": "fill_blank",
+   "prompt": "___ Alltag",
+   "answers": [
+    "der"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-verkehr",
+   "type": "fill_blank",
+   "prompt": "___ Verkehr",
+   "answers": [
+    "der"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-stau",
+   "type": "fill_blank",
+   "prompt": "___ Stau",
+   "answers": [
+    "der"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-engpass",
+   "type": "fill_blank",
+   "prompt": "___ Engpass",
+   "answers": [
+    "der"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-ausbau",
+   "type": "fill_blank",
+   "prompt": "___ Ausbau",
+   "answers": [
+    "der"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-nutzen",
+   "type": "fill_blank",
+   "prompt": "___ Nutzen",
+   "answers": [
+    "der"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-projekt",
+   "type": "fill_blank",
+   "prompt": "___ Projekt",
+   "answers": [
+    "das"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-detail",
+   "type": "fill_blank",
+   "prompt": "___ Detail",
+   "answers": [
+    "das"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-semester",
+   "type": "fill_blank",
+   "prompt": "___ Semester",
+   "answers": [
+    "das"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-studium",
+   "type": "fill_blank",
+   "prompt": "___ Studium",
+   "answers": [
+    "das"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-fahrrad",
+   "type": "fill_blank",
+   "prompt": "___ Fahrrad",
+   "answers": [
+    "das"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-land",
+   "type": "fill_blank",
+   "prompt": "___ Land",
+   "answers": [
+    "das"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-team",
+   "type": "fill_blank",
+   "prompt": "___ Team",
+   "answers": [
+    "das"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-gutachten",
+   "type": "fill_blank",
+   "prompt": "___ Gutachten",
+   "answers": [
+    "das"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-vorhaben",
+   "type": "fill_blank",
+   "prompt": "___ Vorhaben",
+   "answers": [
+    "das"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-pendleraufkommen",
+   "type": "fill_blank",
+   "prompt": "___ Pendleraufkommen",
+   "answers": [
+    "das"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "gd-rule-fem",
+   "type": "fill_blank",
+   "prompt": "Endung -ung / -ion / -tät / -heit / -keit → ___ (Artikel)",
+   "answers": [
+    "die"
+   ],
+   "tags": [
+    "noun-gender"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Diese Endungen sind immer feminin: die Zeitung, die Option, die Kapazität, die Sicherheit, die Machbarkeit."
+  },
+  {
+   "id": "sp-01",
+   "type": "vocab",
+   "prompt": "perhaps",
+   "answers": [
+    "vielleicht"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "sp-02",
+   "type": "vocab",
+   "prompt": "on the other hand",
+   "answers": [
+    "andererseits"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "sp-03",
+   "type": "vocab",
+   "prompt": "to be interested (in)",
+   "answers": [
+    "sich interessieren"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "interessieren mit Doppel-s und ie."
+  },
+  {
+   "id": "sp-04",
+   "type": "vocab",
+   "prompt": "to train",
+   "answers": [
+    "trainieren"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "-ieren"
+  },
+  {
+   "id": "sp-05",
+   "type": "vocab",
+   "prompt": "feasibility",
+   "answers": [
+    "die Machbarkeit"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "sp-06",
+   "type": "vocab",
+   "prompt": "results",
+   "answers": [
+    "die Ergebnisse"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "sp-07",
+   "type": "vocab",
+   "prompt": "yesterday",
+   "answers": [
+    "gestern"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "sp-08",
+   "type": "vocab",
+   "prompt": "train station",
+   "answers": [
+    "der Bahnhof"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "sp-09",
+   "type": "vocab",
+   "prompt": "viewpoints (lookouts)",
+   "answers": [
+    "die Aussichtspunkte"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "sp-10",
+   "type": "vocab",
+   "prompt": "street",
+   "answers": [
+    "die Straße"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "ß nach langem Vokal."
+  },
+  {
+   "id": "sp-11",
+   "type": "vocab",
+   "prompt": "to enjoy",
+   "answers": [
+    "genießen"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "sp-12",
+   "type": "vocab",
+   "prompt": "outside of",
+   "answers": [
+    "außerhalb"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "sp-13",
+   "type": "vocab",
+   "prompt": "ability",
+   "answers": [
+    "die Fähigkeit"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "sp-14",
+   "type": "vocab",
+   "prompt": "master's thesis topic (one word)",
+   "answers": [
+    "das Masterarbeitsthema"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Komposita zusammenschreiben."
+  },
+  {
+   "id": "sp-15",
+   "type": "vocab",
+   "prompt": "road intersection (one word)",
+   "answers": [
+    "die Straßenkreuzung"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "sp-16",
+   "type": "vocab",
+   "prompt": "job / workplace",
+   "answers": [
+    "die Arbeitsstelle"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "sp-17",
+   "type": "vocab",
+   "prompt": "alcohol",
+   "answers": [
+    "der Alkohol"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Spanisch 'alcohol' → Deutsch mit k und h."
+  },
+  {
+   "id": "sp-18",
+   "type": "vocab",
+   "prompt": "project",
+   "answers": [
+    "das Projekt"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Mit k und t, nicht 'proyecto'."
+  },
+  {
+   "id": "sp-19",
+   "type": "vocab",
+   "prompt": "dimension",
+   "answers": [
+    "die Dimension"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "sp-20",
+   "type": "vocab",
+   "prompt": "to have to (wir)",
+   "answers": [
+    "wir müssen"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "sp-21",
+   "type": "vocab",
+   "prompt": "height",
+   "answers": [
+    "die Höhe"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12"
+  },
+  {
+   "id": "sp-schoen",
+   "type": "fill_blank",
+   "prompt": "Das Wetter ist heute sehr ___. (beautiful)",
+   "answers": [
+    "schön"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "schön = beautiful; schon = already.",
+   "contrast": "schon"
+  },
+  {
+   "id": "sp-schon",
+   "type": "fill_blank",
+   "prompt": "Ich bin ___ fertig. (already)",
+   "answers": [
+    "schon"
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "schon = already; schön = beautiful.",
+   "contrast": "schon"
+  },
+  {
+   "id": "sp-1990",
+   "type": "error_correction",
+   "prompt": "Ich bin in 1990 geboren.",
+   "answers": [
+    "Ich bin 1990 geboren."
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Jahreszahlen ohne 'in' (oder: im Jahr 1990).",
+   "instruction": "Finde und korrigiere den Fehler."
+  },
+  {
+   "id": "sp-rom",
+   "type": "error_correction",
+   "prompt": "Wir planen ein Rom trip.",
+   "answers": [
+    "Wir planen eine Reise nach Rom.",
+    "Wir planen einen Trip nach Rom.",
+    "Wir planen eine Romreise."
+   ],
+   "tags": [
+    "spelling"
+   ],
+   "source": "seed-2026-10-12",
+   "explanation": "Kein englisches Kompositum mit Leerzeichen.",
+   "instruction": "Sag es auf Deutsch richtig."
+  },
+  {
+   "id": "sp-zukunft",
+   "type": "vocab",
+   "prompt": "in the future",
+   "answers": [
+    "in Zukunft",
+    "künftig",
+    "zukünftig"
+   ],
+   "tags": [
+    "spelling",
+    "vocab"
+   ],
+   "source": "seed-2026-10-12"
+  }
+ ]
+}
