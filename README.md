@@ -18,9 +18,10 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 ```
 `./gradlew assembleRelease` builds a smaller APK, shrunk with R8 and signed with the debug key so it installs directly.
 
-**Without Android Studio (GitHub Actions):** push this folder to a GitHub repo. `.github/workflows/build.yml` runs
-the tests, builds both APKs and attaches them to the run as the `deutschdrill-apk` artifact. Download it on your phone
-and install it (allow "install unknown apps" for your browser or files app).
+**Without Android Studio (GitHub Actions):** every push runs `.github/workflows/build.yml`, which runs the tests and builds
+both APKs. Each build of `main` is also published as the latest GitHub release, so on your phone you can open
+`https://github.com/<you>/<repo>/releases/latest/download/deutsch-drill.apk` (signed in to GitHub, since the repo is private)
+and install it (allow "install unknown apps" for your browser). Installing a newer build over the old one keeps your progress.
 
 ## How a session works
 
